@@ -1,0 +1,8 @@
+﻿  stack.c
+D:\QG big\big\week2\week2\stack\head and code\LinkStack\linkstack\linkstack\stack.c(33,9): warning C4013: “free”未定义；假设外部返回 int
+D:\QG big\big\week2\week2\stack\head and code\LinkStack\linkstack\linkstack\stack.c(53,42): warning C4013: “malloc”未定义；假设外部返回 int
+D:\QG big\big\week2\week2\stack\head and code\LinkStack\linkstack\linkstack\stack.c(53,67): warning C4312: “类型强制转换”: 从“int”转换到更大的“LinkStackPtr”
+  main.c
+D:\QG big\big\week2\week2\stack\head and code\LinkStack\linkstack\linkstack\main.c(85,31): warning C4133: “函数”: 从“char *”到“ElemType *”的类型不兼容
+  正在生成代码...
+  linkstack.vcxproj -> D:\QG big\big\week2\week2\stack\head and code\LinkStack\linkstack\x64\Debug\linkstack.exe

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "linkstack", "linkstack\linkstack.vcxproj", "{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "calculator", "..\..\..\可执行文件\calculator\calculator.vdproj", "{37789EA6-9C0A-451A-9081-2818E890C190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}.Debug|x64.ActiveCfg = Debug|x64
+		{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}.Debug|x64.Build.0 = Debug|x64
+		{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}.Debug|x86.Build.0 = Debug|Win32
+		{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}.Release|x64.ActiveCfg = Release|x64
+		{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}.Release|x64.Build.0 = Release|x64
+		{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}.Release|x86.ActiveCfg = Release|Win32
+		{C8AD3BF0-1A99-4CBE-B042-C263CE3E9439}.Release|x86.Build.0 = Release|Win32
+		{37789EA6-9C0A-451A-9081-2818E890C190}.Debug|x64.ActiveCfg = Debug
+		{37789EA6-9C0A-451A-9081-2818E890C190}.Debug|x86.ActiveCfg = Debug
+		{37789EA6-9C0A-451A-9081-2818E890C190}.Release|x64.ActiveCfg = Release
+		{37789EA6-9C0A-451A-9081-2818E890C190}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {566C4B1D-6139-4D14-825C-6921DABCAE9E}
+	EndGlobalSection
+EndGlobal
